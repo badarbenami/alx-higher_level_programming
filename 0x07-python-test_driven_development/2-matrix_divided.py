@@ -4,8 +4,11 @@
 
 '''
 File_name: 2-matrix_divided.py
+Created: 3rd of June, 2023
+Auth: David James Taiye (Official0mega)
 Size: undefined
 Project: 0x07-python-test_driven_development
+Status: submitted.
 '''
 
 
@@ -63,4 +66,4 @@ def matrix_divided(matrix, div):
         raise TypeError('div must be a number')
     if div == 0:
         raise ZeroDivisionError('division by zero')
-    return [[round(num / div, 2) for num in row] for row in matr
+    return [[round(num / div, 2) for num in row] for row in matrix]

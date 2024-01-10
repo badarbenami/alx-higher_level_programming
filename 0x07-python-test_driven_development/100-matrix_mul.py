@@ -4,6 +4,8 @@
 
 '''
 File_name: 100-matrix_mul.py
+Created: 1st of June, 2023
+Auth: David James Taiye (Official0mega)
 Size: undefined
 Project: 0x07-python-test_driven_development
 Status: submitted.
@@ -18,7 +20,7 @@ def get_matrix_sizes(matrix_1, matrix_2, name_1, name_2):
     # m_a and m_b must be an list of lists of integers or floats:
     # VARIABLE(" "):
     # matrix_mul(List): Matrix multiplication
-    # Return: Always zero. (Success).
+    # Return: Always 0. (Success).
     """
     funcs = (
         lambda txt: '{} must be a list'.format(txt),

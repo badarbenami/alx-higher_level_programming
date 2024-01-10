@@ -4,6 +4,8 @@
 import ctypes
 """
 File_name: 102-python.py
+Created: 1st of June, 2023
+Auth: David James Taiye (Official0mega)
 Size: undefined
 Project: 0x07-python-test_driven_development
 Status: submitted.
@@ -29,4 +31,4 @@ lib.print_python_string('Swahili: Sijui unamaanisha nini')
 # Invalid objects
 lib.print_python_string(b'I do not know what you mean')
 lib.print_python_string(45)
-lib.print_python_string(list('I do not know what you mean'
+lib.print_python_string(list('I do not know what you mean'))

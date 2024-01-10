@@ -1,5 +1,7 @@
 /*
  * File_name: 102-python.c
+ * Created: 2nd June, 2023
+ * Auth: David James Taiye
  * Size: undefined
  * Project: 0x07-python-test_driven_development
  * Status: submitted.

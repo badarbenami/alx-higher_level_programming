@@ -4,6 +4,8 @@
 
 '''
 File_name: 3-say_my_name.py
+Created: 3rd of June, 2023
+Auth: David James Taiye (Official0mega)
 Size: undefined
 Project: 0x07-python-test_driven_development
 Status: submitted.

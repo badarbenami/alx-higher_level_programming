@@ -5,6 +5,8 @@ import numpy
 
 '''
 File_name: 101-lazy_matrix_mul.py
+Created: 1st of June, 2023
+Auth: David James Taiye (Official0mega)
 Size: undefined
 Project: 0x07-python-test_driven_development
 Status: submitted.
